@@ -1,0 +1,11 @@
+{
+  "name": "mastra-classifier-span-repro",
+  "private": true,
+  "scripts": {
+    "start": "node repro.mjs"
+  },
+  "dependencies": {
+    "@mastra/core": "1.78.0",
+    "@mastra/observability": "1.20.1"
+  }
+}
